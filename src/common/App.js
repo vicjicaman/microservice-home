@@ -17,7 +17,7 @@ const App = () => {
 
         return (
           <div>
-            <Layout viewer={viewer} login={<NavItem><NavLink href="/auth">Login</NavLink></NavItem>} logout={null}>
+            <Layout viewer={viewer}>
               <Root viewer={viewer} />
             </Layout>
           </div>
