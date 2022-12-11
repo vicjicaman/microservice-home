@@ -39,7 +39,7 @@
     "apollo-cache-inmemory": "^1.6.3",
     "bootstrap": "^4.3.1",
     "connected-react-router": "^6.5.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "graphql": "^14.5.4",
     "jquery": "^3.4.1",
